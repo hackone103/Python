@@ -27,6 +27,7 @@
 > virtualenv virtualenv_name
 
 # activate venv
+> .\env\Scripts\activate
 > python env\Scripts\activate.bat
 
 # ectivate error commdna
