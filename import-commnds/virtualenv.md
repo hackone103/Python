@@ -19,3 +19,22 @@
 ```
 
 ## Windows
+```sh
+# install virtualenv
+> pip install virtualenv 
+
+# create venv 
+> virtualenv virtualenv_name
+
+# activate venv
+> python env\Scripts\activate.bat
+
+# ectivate error commdna
+# Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+
+# deactivate venv
+> deactivate
+
+# Create requirements.txt
+> pip freeze > requirements.txt
+```
